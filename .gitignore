@@ -21,3 +21,8 @@ __pycache__/
 secrets.txt
 *.key
 .env
+
+# PDFs de bibliografia (no se suben al repo - viven solo en el disco)
+# Razon: tamano excesivo + posibles derechos de autor
+04_Bibliografia/PDFs/
+*.pdf
