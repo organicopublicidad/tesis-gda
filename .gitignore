@@ -1,0 +1,23 @@
+# Archivos temporales de Office
+~$*
+*.tmp
+*.bak
+
+# Sistema operativo
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Outputs grandes
+*.zip
+*.rar
+
+# Archivos personales sensibles
+secrets.txt
+*.key
+.env
