@@ -22,7 +22,23 @@ secrets.txt
 *.key
 .env
 
-# PDFs de bibliografia (no se suben al repo - viven solo en el disco)
-# Razon: tamano excesivo + posibles derechos de autor
+# Credenciales personales (diplomas, pasaportes) — nunca al repo
+06_Universidades/00_Credenciales/
+
+# PDFs de bibliografía (no se suben — tamaño + derechos de autor)
 04_Bibliografia/PDFs/
 *.pdf
+
+# Instaladores y ejecutables de terceros
+*.exe
+*.msi
+
+# Imágenes no relevantes para la tesis
+Gemini_Generated_Image_*.png
+
+# Scripts de extracción temporal (ayudas de sesión, no parte del proyecto)
+identificar_descargas.py
+organizar_descargas.py
+extraer_upm.py
+extraer_v8_v3.py
+*_extraida.md

@@ -2,7 +2,7 @@
 
 **Universidad:** Universitat Politècnica de València
 **Posición disciplinar:** #14 Europa en Agriculture & Forestry (QS by Subject 2026) — la española mejor posicionada en agroalimentario
-**Estado:** ✅ Inscripción realizada — Aplicación activa
+**Estado:** ⏳ NO inscrita aún — **ventana de preinscripción 2026/2027: 15/06/2026 → 26/06/2026** (verificado en portal UPV, 11 jun 2026)
 
 ## Documentos enviados
 
@@ -25,7 +25,9 @@ UPV ofrece un encaje técnico-agronómico complementario a la UPM:
 
 ## Próxima acción
 
-Esperar respuesta del comité académico del programa.
+1. **Elegir el programa de doctorado concreto** (línea agroalimentaria: ETSEAMN / Ingeniería Económica).
+2. **Preparar la propuesta corregida** (versión sin antifragilidad/DMDU, con núcleo sociotécnico — como Firenze/Bologna).
+3. **Preinscribirse en la ventana 15–26 jun 2026** vía portal UPV.
 
 ## Fecha de actualización
 

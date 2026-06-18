@@ -1,0 +1,145 @@
+﻿Template for the Research Proposal
+
+COVER PAGE
+
+Name: Daniel Alejandro
+
+Surname: Pajoy Bastos
+
+Title of the project: Associative Digital Governance: a socio-technical model for value capture at origin in smallholder coffee organisations in Colombia's PDET territories
+
+Indicate only one Research Topic you would like to be involved in (the full description of Research Topics is also available on the PhD Programme website):
+
+□ ( 1)	Agronomy, Herbaceous Crops, Flowers and Vegetables Systems, Agricultural Genetics and Agricultural Chemistry
+
+□ ( 2)	International Cooperation and Sustainable Development Policies
+
+□ ( 3)	Microbial Ecology and Plant Pathology
+
+☒ ( 4)	Agricultural and Food Economics and Policy
+
+□ ( 5)	Agricultural Entomology
+
+□ ( 6) Agricultural Engineering
+
+□ ( 7) Food Science and Biotechnology
+
+□ ( 8) Animal Science
+
+□ ( 9)	Tree Production Systems, Fruit, Forest and Ornamental Trees and Grape
+
+□ (10)	Water-Food-Energy-Sustainable Agriculture Nexus
+
+NB: i) during the oral examination, each applicant can express to the Admission Board their interest for the assignment of one or more topic-specific positions; ii) it must be not indicated the name of possible professors who will be responsible for the PhD candidate research activity and the thesis; a supervisor is appointed by the Academic Board only after enrollment.
+
+PROPOSAL DESCRIPTION
+
+1. State of the art and consistency with the candidate's learning pathway
+
+Coffee-producing organisations in the Global South retain barely 7-10% of the final consumer price (Fitter & Kaplinsky, 2001; Talbot, 1997), an outcome of captive governance architectures in global value chains (GVCs) that concentrate rent in the roasting and distribution links and transfer climatic and price risk onto the producer base (Gereffi et al., 2005; Grabs & Ponte, 2019). The dependent variable of this research is therefore the share of value captured at origin (VCO): the fraction of chain value that producer organisations retain in the territory — an agri-food economics problem of quality valorisation and chain positioning.
+
+In Colombia the problem is most critical in the Development Programmes with a Territorial Focus (PDET), the policy implementing the 2016 Peace Agreement across 170 municipalities (Decree 893/2017), where smallholder coffee organisations face interlocking deficits: governance weakened by the armed conflict (Ostrom, 1990; Rettberg, 2010), captive positioning in the GVC (Gereffi et al., 2005), and digital exclusion that threatens compliance with the EU Deforestation Regulation (EUDR, Reg. 2023/1115), binding for coffee from 2026. Four research traditions frame the problem:
+
+GVC and upgrading theory (Gereffi et al., 2005; Humphrey & Schmitz, 2002; Grabs & Ponte, 2019) explains how rent is extracted but not the governance conditions under which organisations reposition to raise VCO.
+
+The governance of the commons (Ostrom, 1990; Agrawal, 2001) supplies validated institutional design principles for collective action, but incorporates neither digital mediation nor post-conflict fragility, where social capital was eroded (Rettberg, 2010) and cooperative failures are structural (Ortmann & King, 2007).
+
+Socio-technical theory conceives every productive system as a social and a technical subsystem whose performance depends on their joint optimisation (Trist & Bamforth, 1951; Emery & Trist, 1965; Trist, 1981; Abbas & Michael, 2026), a principle reaffirmed for Industry 4.0 (Horváth & Kemser, 2026): technology that ignores the social subsystem degrades the whole.
+
+Digital governance and distributed ledgers (Werbach, 2018; Cong et al., 2020) reduce information asymmetries and enable verifiable traceability (a technical condition of the EUDR) but retain rent in the territory only on a solid base of collective governance (Schletz et al., 2023; Elmatsani et al., 2026). The market already pays for verified traceability and origin, with premiums of around 28.5% over average retail price (Merbah & Benito-Hernández, 2023), yet no model specifies the governance mechanisms that let that premium reach the producing organisations.
+
+No model integrates associative governance, socio-technical architecture and the measurement of retained value for smallholder coffee organisations in post-conflict settings; this is the gap the project addresses, squarely within Agricultural and Food Economics and Policy. The proposal is consistent with the candidate's pathway: an MBA focused on strategy and international business, an engineering background in electronics and telecommunications, and more than fifteen years leading the digitalisation of coffee-export value chains (the CAFIX platform with Colombia's Coffee Growers Federation/ALMACAFE and COFFIS), training 300+ smallholder producers in quality, traceability and export standards, and articulating post-conflict trade missions. This trajectory bridges agri-food economics, digital technology and value-chain governance, with direct field access through the FEMNCAFE (Federación Mesa Nacional del Café).
+
+2. Description of the project
+
+Main objective: to design and evaluate a socio-technical model of Associative Digital Governance (ADG) that enables smallholder coffee organisations in Colombia's PDET territories to increase their share of value captured at origin (VCO) in the global coffee value chain.
+
+Research question: How does a socio-technical model of associative digital governance enable smallholder coffee organisations in Colombia's PDET territories to increase the share of value captured at origin (VCO) in the global coffee value chain?
+
+Associative Digital Governance (ADG) is the original construct of this proposal: collective institutional governance grounded in Ostrom's principles (the social subsystem, operationalised as a Governance Index, IG), and a digital architecture of trust comprising traceability and data sovereignty (the technical subsystem), jointly optimised to increase VCO, the central dependent variable. The degree of territorial consolidation is captured by an original PDET Consolidation Index (IPDET) - institutional consolidation, security conditions and Peace-Agreement implementation - which acts as a moderator enabling extrapolation from the validation case to the country's diverse PDET territories.  The central proposition is that governance explains more of the variance in VCO than technology.
+
+The research adopts the Design Science Research paradigm (Hevner et al., 2004), which couples empirical rigour with the design of implementable artefacts, in a sequential mixed-methods design feasible within three years because its evaluative core is simulation-based rather than dependent on multi-year outcome observation:
+
+Phase I (diagnostic) establishes the VCO baseline (VCO₀) through chain-actor cost accounting and secondary price series, and combines semi-structured interviews with leaders, social network analysis of post-conflict social capital, and GVC mapping; the IG is operationalised from Ostrom's eight design principles and a technological-readiness index captures the digital subsystem, while the IPDET is constructed as the moderator.
+
+Phase II (constructive) designs, prototypes and iterates the ADG mechanisms through participatory design workshops and a remote three-round Delphi panel, whose consensus ranges constitute the empirically grounded prior distributions for Phase III.
+
+Phase III (evaluative) proceeds in two complementary steps: first, a census of the FEMNCAFE network organisations (approximately 20) compares, through fuzzy-set Qualitative Comparative Analysis (fsQCA; Ragin, 2008) - suited to a small number of cases - which configurations of governance (IG) and technological maturity are associated with higher VCO, with the embedded case providing causal-mechanism evidence through process tracing; second, a Monte Carlo simulation (≥10,000 iterations) analysed with Sobol sensitivity indices decomposes the variance of the modelled VCO into each subsystem's contribution, and an adverse-scenario analysis (stress testing: price collapse, security deterioration, institutional failure) verifies whether the VCO gain holds beyond the baseline.
+
+The two strands are triangulated to test the central proposition. Methodologically, the project is an economic analysis of the uptake of digital technologies in smallholder agriculture and of their effect on value distribution and policy (EUDR, PDET), directly aligned with the programme's Agricultural and Food Economics and Policy research topic.
+
+3. Expected results
+
+The project yields a threefold contribution:
+
+Scientific: An integrative model of digital-institutional governance for associative organisations in PDET territories, extending Ostromian and socio-technical theory to conditions of high fragility and digital mediation, and empirical evidence on whether governance or technology explains more of the variance in value captured at origin, a question the literature has not resolved.
+
+Methodological: A replicable sequential DSR protocol that couples a cross-organisational configurational analysis (fsQCA) with a Delphi-calibrated Monte Carlo-Sobol evaluation of value capture, transferable to other Global South agri-food chains.
+
+Praxeological and policy: Governance rules, a traceability and data-sovereignty architecture, and a benefit-distribution scheme appropriable by smallholder organisations - supporting EUDR compliance and market access, with policy implications for the Colombian PDET framework and for the design of EU sustainability regulation.
+
+Verifiable outputs include the VCO₀ baseline and a quantified estimate of the ADG effect on VCO; the validated IG and IPDET indices; the empirical (configurational) and simulated pattern of governance versus technology in VCO; and at least three peer-reviewed articles in indexed journals.
+
+4. Lead-time for implementation
+
+The research is organised over three years, with fieldwork conducted through concentrated field campaigns in Colombia and analysis based in Bologna:
+
+Year 1: systematic consolidation of the state of the art; refinement of the constructs (VCO, IG, IPDET); design of fieldwork instruments and ethics protocol; a first field campaign executing Phase I (interviews, social network analysis, GVC mapping, VCO₀ baseline, IPDET construction), accelerated by the candidate's existing access through FEMNCAFE; submission of the first article on the diagnostic of value distribution.
+
+Year 2: Phase II constructive work in a second field campaign (participatory design workshops with coffee communities) and a remote three-round Delphi panel, producing the ADG prototype and the prior distributions for simulation; the mandatory research-mobility period abroad; submission of the second article on the governance model.
+
+Year 3: Phase III evaluation - the FEMNCAFE census with fsQCA and the Monte Carlo simulation with Sobol indices and adverse-scenario stress testing - followed by triangulation, the transferability assessment across the IPDET range, thesis writing, submission of the third article and doctoral defence.
+
+5. Proposed criteria to be used to assess the findings obtained.
+
+The findings will be assessed against explicit measures of achievement. The primary outcome is the increase in value captured at origin (VCO) estimated against the diagnostic baseline (VCO₀) and projected through the calibrated simulation. Governance is assessed through the Governance Index derived from Ostrom's principles, and the digital subsystem through the technological-readiness index. The central hypothesis is tested by the Sobol sensitivity indices, which quantify the relative contribution of the governance and technology subsystems to VCO variance; the configurational results from the fsQCA must converge with the simulation in identifying governance as the dominant block. The robustness criterion is whether the VCO gain is preserved under the adverse-scenario stress tests (price collapse, security deterioration, institutional failure). Additional criteria include the degree of Delphi expert consensus, the validation of the artefacts by the participating organisations, the outcome of the transferability assessment across the IPDET range, and the production of peer-reviewed publications in indexed journals.
+
+6. References
+
+Abbas, R., & Michael, K. (2026). Socio-technical theory: A review. In S. Papagiannidis (Ed.), TheoryHub book.
+
+Agrawal, A. (2001). Common property institutions and sustainable governance of resources. World Development, 29(10), 1649-1672.
+
+Cong, L. W., Li, Y., & Wang, N. (2020). Tokenomics: Dynamic adoption and valuation. The Review of Financial Studies, 34(3), 1105-1155.
+
+Elmatsani, H. M., et al. (2026). Bridging the governance gap in agricultural blockchain-based smart contracts. Frontiers in Blockchain.
+
+Emery, F. E., & Trist, E. L. (1965). The causal texture of organizational environments. Human Relations, 18(1), 21-32.
+
+European Parliament and Council. (2023). Regulation (EU) 2023/1115 on deforestation-free products. Official Journal of the European Union.
+
+Fitter, R., & Kaplinsky, R. (2001). Who gains from product rents as the coffee market becomes more differentiated? IDS Bulletin, 32(3), 69-82.
+
+Gereffi, G., Humphrey, J., & Sturgeon, T. (2005). The governance of global value chains. Review of International Political Economy, 12(1), 78-104.
+
+Grabs, J., & Ponte, S. (2019). The evolution of power in the global coffee value chain and production network. Journal of Economic Geography, 19(4), 803-828.
+
+Hevner, A. R., March, S. T., Park, J., & Ram, S. (2004). Design science in information systems research. MIS Quarterly, 28(1), 75-105.
+
+Horváth, A., & Kemser, H.-P. (2026). Human, organisation and social system in the intelligent factory: The contemporary relevance of socio-technical systems theory in the age of Industry 4.0. International Review of Applied Sciences and Engineering.
+
+Humphrey, J., & Schmitz, H. (2002). How does insertion in global value chains affect upgrading in industrial clusters? Regional Studies, 36(9), 1017-1027.
+
+Merbah, N., & Benito-Hernández, S. (2023). Sustainability labels in the Spanish coffee market: A hedonic price approach. Spanish Journal of Agricultural Research, 21(1), e0102.
+
+Ortmann, G. F., & King, R. P. (2007). Agricultural cooperatives I: History, theory and problems. Agrekon, 46(1), 18-46.
+
+Ostrom, E. (1990). Governing the commons: The evolution of institutions for collective action. Cambridge University Press.
+
+Presidency of the Republic of Colombia. (2017). Decree 893 of 2017. Diario Oficial No. 50.230.
+
+Ragin, C. C. (2008). Redesigning social inquiry: Fuzzy sets and beyond. University of Chicago Press.
+
+Rettberg, A. (2010). Global markets, local conflict: Violence in the Colombian coffee region after the breakdown of the International Coffee Agreement. Latin American Perspectives, 37(2), 111-132.
+
+Schletz, M., et al. (2023). Blockchain and regenerative finance. Frontiers in Blockchain, 6, Article 1165133.
+
+Talbot, J. M. (1997). Where does your coffee dollar go? The division of income and surplus along the coffee commodity chain. Studies in Comparative International Development, 32(1), 56-91.
+
+Trist, E. L. (1981). The evolution of socio-technical systems: A conceptual framework and an action research program (Occasional Paper No. 2). Ontario Quality of Working Life Centre.
+
+Trist, E. L., & Bamforth, K. W. (1951). Some social and psychological consequences of the longwall method of coal-getting. Human Relations, 4(1), 3-38.
+
+Werbach, K. (2018). The blockchain and the new architecture of trust. MIT Press.
+
+Declaration on the use of Generative AI: generative AI tools (Anthropic Claude) were used to support language editing, structuring and reference formatting of this document. The research question, theoretical framing, model, methodological design and all scientific decisions are the author's own, and the author assumes full responsibility for the content.

@@ -2,8 +2,8 @@
 
 **Candidato:** Daniel Alejandro Pajoy Bastos
 **Programa de tesis:** Gobernanza Digital Asociativa (GDA) — Café colombiano en territorios PDET
-**Última actualización:** 7 de junio de 2026
-**Estado general:** UPM-TAPAS confirmada como apuesta principal · Modalidad virtual desde Popayán · Aplicaciones complementarias en evaluación
+**Última actualización:** 12 de junio de 2026
+**Estado general:** UPM-TAPAS confirmada ⭐ · Bologna + Firenze ENVIADAS · UCM preinscrita · UAB inscrita · UAM suspendida · UV/UPV pendientes de decisión · foco siguiente: internacionales (defensa Bologna 21 jul, Firenze 14 jul)
 
 ---
 
@@ -30,18 +30,22 @@
 
 | # | Universidad | Programa | Estado | Próximo paso |
 |---|-------------|----------|--------|--------------|
-| **1** | **UPM-TAPAS** 🇪🇸 | Tecnología Agroambiental para una Agricultura Sostenible | ✅ **APROBADA** (Sonia directora) | Matrícula + plazo 12 jun |
-| **2** | **Deusto** 🇪🇸 | Competitividad Empresarial y Territorial, Innovación y Sostenibilidad | 🔄 Preinscrito | Confirmar interés/desistir |
-| **3** | **Loyola Andalucía** 🇪🇸 | Desarrollo Inclusivo y Sostenible | 🔄 Preinscrito | Confirmar interés/desistir |
-| **4** | **Mondragón** 🇪🇸 | Gestión Avanzada de Organizaciones y Economía Social | 🔄 Preinscrito | Confirmar interés/desistir |
-| **5** | **UAB Barcelona** 🇪🇸 | Por definir | 🔄 Documentos subidos al portal | Esperar verificación |
+| **1** | **UPM-TAPAS** 🇪🇸 ⭐ | Tecnología Agroambiental para una Agricultura Sostenible | ✅ **APROBADA** (Dra. Sonia Benito, virtual) | Matrícula formal |
+| **2** | **UCM** 🇪🇸 | ADE (1.º) + Economía y Gestión de la Innovación (2.º) | ✅ Preinscrita (DA028954) · 4 correos dirección enviados | Resolución admisión **14 oct** |
+| **3** | **UAB** 🇪🇸 | Doctorat en Empresa | ✅ INSCRITO — tutor: Miguel Á. García Cestona · matrícula desde 17 jul | Confirmar director |
+| **4** | **Deusto** 🇪🇸 | Competitividad Empresarial y Territorial, Innovación y Sostenibilidad | 🔄 Preinscrito | Stand-by |
+| **5** | **Loyola Andalucía** 🇪🇸 | Desarrollo Inclusivo y Sostenible | 🔄 Preinscrito | Stand-by |
+| **6** | **Mondragón** 🇪🇸 | Gestión Avanzada de Organizaciones y Economía Social | 🔄 Preinscrito | Stand-by |
+| **7** | **UV** 🇪🇸 | Economía Social — IUDESCOOP | ⏳ No inscrita — deadline **23 jun, 14:00** | Pagar tasa equivalencia 155,22€ + preinscripción Escola de Doctorat |
+| **8** | **UPV** 🇪🇸 | Agroalimentario | ⏳ No inscrita — ventana **15–26 jun** | Decidir sí/no |
+| **—** | **UAM** 🇪🇸 | Economía y Gestión de la Innovación | ⏸️ **SUSPENDIDA** — cubierta por UCM sin aval | Reactivar solo si profesor avalador responde |
 
 ### 🟡 CATEGORÍA B — Oportunidades de financiación a evaluar
 
 | # | Universidad | Programa | Financiación | Cierre |
 |---|-------------|----------|--------------|--------|
-| **6** | **Bologna** 🇮🇹 | Agricultural, Environmental and Food Science and Technology (42º ciclo) | Borsa €18.341 bruto/año (~€1.350 neto/mes) | **15 jun 2026** ⚠️ |
-| **7** | **Firenze** 🇮🇹 | Gestione Sostenibile delle Risorse Agrarie, Forestali e Alimentari (42º ciclo) | Borsa €16.243 bruto/año + 50% en estancias + €5.000 reubicación no-UE | **11 jun 2026** ⚠️⚠️ |
+| **6** | **Bologna** 🇮🇹 ✅ **ENVIADA 10 jun** | Agricultural, Environmental and Food Science and Technology — **STAAA** (42º ciclo, 2ª tornata) · DISTAL · coord. Diana Di Gioia · Topic 4 | Borsa **€18.341,04** bruto/año · **33 plazas todas con beca** | ✅ Solicitud cerrada + €10 pagados. Resultados títulos+proyecto desde 10 jul · **Oral remota (Teams) desde 21 jul 9:00 CEST** · resultados 31 jul |
+| **7** | **Firenze** 🇮🇹 ✅ **ENVIADA 10 jun** | Gestione Sostenibile delle Risorse Agrarie, Forestali e Alimentari (42º ciclo) — curriculum EASRS | Borsa €16.243 bruto/año + 50% en estancias + €5.000 reubicación no-UE | ✅ Solicitud cerrada + €30 pagados. Entrevista remota 14 jul 9:30 |
 | **8** | **ETH Zurich** 🇨🇭 | Agricultural Economics and Policy (tema fijo clima/agro suizo) | Salariado CHF 61.000-64.000/año | **26 jun 2026** ⚠️ |
 | **9** | **ZEF-Bonn** 🇩🇪 | BIGS-DR Doctoral Programme (Development Research) | Beca DAAD-EPOS completa (~€1.500/mes + seguro + vuelo) | **31 ago 2026** (verificar 15 oct alternativo) |
 | **10** | **Hohenheim FSC** 🇩🇪 | Global Food Security (Food Security Center) | Beca DAAD/BMZ países en desarrollo | Verificar ventana 2026/27 |
@@ -66,10 +70,12 @@
 
 | Fecha | Acción | Universidad | Estado |
 |-------|--------|-------------|--------|
-| **11 jun** | Cierre inscripción doctorado | **Firenze (42º ciclo)** | ⚠️ Decidir si aplicar |
-| **12 jun** | Plazo trámites administrativos | **UPM secretaría** | ⚠️⚠️ Atender obligatoriamente |
-| **15 jun** | Cierre inscripción doctorado | **Bologna (42º ciclo 2ª tornata)** | ⚠️ Decidir si aplicar |
+| **11 jun** | Cierre inscripción doctorado | **Firenze (42º ciclo)** | ✅ ENVIADA + pagada |
+| **12 jun** | Plazo trámites administrativos | **UPM secretaría** | (gestionar) |
+| **15 jun** | Cierre inscripción doctorado | **Bologna (42º ciclo 2ª tornata)** | ✅ ENVIADA + pagada |
+| **23 jun** | Cierre preinscripción doctorado | **UV — IUDESCOOP** | ⚠️ Decidir + pagar tasa 155,22€ |
 | **26 jun** | Cierre aplicación | **ETH Zurich Ag. Economics** | ⚠️ Decidir si aplicar |
+| **26 jun** | Cierre preinscripción | **UPV** | ⚠️ Decidir si aplicar |
 
 ### 🟡 JULIO – AGOSTO 2026
 
@@ -305,15 +311,22 @@ UPM con Sonia no incluye financiación garantizada. **¿Cómo financias el docto
 
 ---
 
-## 📌 ACCIONES INMEDIATAS — Esta semana
+## 📌 ACCIONES INMEDIATAS — Próximas semanas
 
-- [ ] **Antes del 12 jun:** Resolver trámite secretaría alumnos UPM
-- [ ] **Antes del 11 jun:** Decidir Firenze (sí/no)
-- [ ] **Antes del 15 jun:** Decidir Bologna (sí/no)
-- [ ] **Esta semana:** Decidir si desistir formalmente de Deusto, Loyola, Mondragón
-- [ ] **Esta semana:** Enviar tabla de contenido v2 a Sonia
-- [ ] **Esta semana:** Consultar a Sonia si UPM tiene plaza predoctoral o vía de financiación
-- [ ] **Esta semana:** Verificar fecha real de cierre DAAD-EPOS 2027 (ZEF)
+- [x] ~~Firenze — ENVIADA (10 jun)~~
+- [x] ~~Bologna — ENVIADA (10 jun)~~
+- [x] ~~UCM — preinscrita + 4 correos dirección enviados (12 jun)~~
+- [x] ✅ **RESUELTO (17 jun)** — Correo enviado a `aform.udottricerca@unibo.it`: país corregido "Comoros" → Colombia + codice fiscale Z310 → Z604. Confirmado por Bologna.
+- [ ] 🔴 **Antes 23 jun** — Decidir UV (tasa 155,22€ + preinscripción Escola de Doctorat IUDESCOOP)
+- [ ] 🔴 **Antes 26 jun** — Decidir ETH Zurich (sí/no)
+- [ ] 🔴 **Antes 26 jun** — Decidir UPV (sí/no)
+- [ ] 🟠 **Preparar** defensa oral Firenze (14 jul, 9:30)
+- [ ] 🟠 **Preparar** defensa oral Bologna (21 jul, 9:00 CEST, MS Teams)
+- [ ] 🟡 Verificar fecha exacta ZEF-Bonn DAAD + preparar research proposal 3–5 págs
+- [ ] 🟡 CIRAD / Montpellier: identificar supervisor y contactar
+- [ ] 🟡 Wageningen: revisar vacantes + identificar 2–3 supervisores
+- [ ] 🔵 UV profesores (6 correos de aval): verificar emails y enviar
+- [ ] 🔵 UCM secretaría: valorar reordenar programas (Innovación 1.º) si interesa
 
 ---
 
@@ -325,6 +338,12 @@ UPM con Sonia no incluye financiación garantizada. **¿Cómo financias el docto
 | 3 jun 2026 | ✅ Tabla de contenido v1 generada | Estructura genérica |
 | 5 jun 2026 | ✅ Tabla de contenido v2 generada (basada en estructura Merbah 2023) | Estructura avalada por Sonia |
 | 7 jun 2026 | ✅ Documento maestro de plan de doctorado creado | Reemplaza la guía externa de 25 recomendaciones |
+| 10 jun 2026 | ✅ **Aplicación a Firenze (GeSoRAFA, ciclo XLII) ENVIADA y PAGADA** | Curriculum EASRS (línea Scaramuzzi). Research Project en 6 secciones (≤12.000), fsQCA/censo n≈20, APA. Dossier: CV Europass + notas/título (orig+trad EN). Entrevista remota 14 jul 9:30. Sin mail de confirmación (guardar comprobantes) |
+| 10 jun 2026 | ✅ **Bologna (STAAA, 42º ciclo) — bando oficial verificado y procesado** | Programa STAAA/DISTAL, coord. Di Gioia, 33 plazas con beca €18.341,04. Portal **Studenti Online**, tasa €10. Research Proposal en **plantilla UNIBO obligatoria** (≤20.000 car., Topic 4, sin nombrar tutor, +declaración IA). CV con **Summary UNIBO** (−5 si falta). Hasta 2 cartas (las sube el referente, fecha >1 ene 2026). Oral remota MS Teams desde 21 jul. Bando+plantillas en `07_Bologna/00_Bando_oficial/`. |
+| 10 jun 2026 | ✅✅ **Bologna (STAAA) — SOLICITUD ENVIADA y €10 PAGADOS** | Cuenta Studenti Online: daniel.pajoybastos@studio.unibo.it. Adjuntos subidos: pasaporte, CV Summary UNIBO, MBA título+notas (bilingüe), Research Proposal v3 corregido (Topic 4), pregrado título+notas (bilingüe), abstract tesis MBA. Statements: máster + pregrado + extra-quota N/A + consent International PhD College. **Research topic en portada: 4 (Agricultural and Food Economics and Policy).** Oral remota desde 21 jul. ⚠️ **PENDIENTE: enviar correo a aform.udottricerca@unibo.it para corregir país de nacimiento (quedó "Comoros" → debe ser Colombia; afecta también el codice fiscale)** |
+| 11-12 jun 2026 | ⚠️ **UAM (Madrid) — Doctorado en Economía y Gestión de la Innovación: preinscripción BLOQUEADA por aval obligatorio** (no completada) | Programa interuniv. UAM/UCM/UPM. Aval de dirección OBLIGATORIO en UAM. Avales solicitados a Isabel Álvarez (UCM, coord.), Juan Carlos Salazar Elena (UAM) y Carlos Merino (UAM). Material en `08_UAM_Madrid`. Se optó por la vía UCM (mismo programa, sin aval). |
+| 12 jun 2026 | ✅ **Complutense (UCM) — PREINSCRITA** (resguardo DA028954) en 2 programas: 1.º Administración y Dirección de Empresas · 2.º Economía y Gestión de la Innovación | **Sin requisito de aval** (desbloquea Innovación frente a UAM). País de nacimiento correcto (Colombia). Docs subidos: títulos no-EEES, equivalencia nota media, pasaporte, CV, certif. académicas, certif. acceso EAFIT. Comprobación del título en convalidaciones si admitido (sin tasa previa). **Resolución admisión: 14 oct.** ✅ **4 correos de interés de dirección ENVIADOS (12 jun)** — emails verificados en directorio UCM: **ADE** — Gustavo Lejarriaga `lejavaca.gus@ccee.ucm.es`, Paloma Bel Durán `pbelduran@ccee.ucm.es`; **Innovación** — Joost Heijs `joost@ccee.ucm.es`, Cipriano Quirós (coord. del programa) `cquiros@ccee.ucm.es`. Seguimiento si no responden en ~1 semana. Proyectos por vía: ADE (coop./economía social) e Innovación, + CV Europass, en `10_UCM_Complutense`. ⚠️ Pendiente: confirmar emails UCM; valorar reordenar preferencia (Innovación 1.º) — ya no editable online, vía secretaría. |
+| 12 jun 2026 | ⏸️ **UAM — proceso SUSPENDIDO** (salvo que un profesor avalador responda afirmativamente) | El mismo programa (Economía y Gestión de la Innovación) queda cubierto por la vía **UCM sin aval**. Se continúa con las españolas ya elegidas: Deusto, Loyola, Mondragón, UAB. |
 | | | |
 
 ---
